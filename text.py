@@ -1,5 +1,5 @@
 # text
-如何通过python将excel数据保存文本
+
 #给system变成/*a*/s./*a*/y./*a*/s./*a*/t./*a*/e./*a*/m/*a*/
 q="system"
 m=list(q)
